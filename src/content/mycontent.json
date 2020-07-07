@@ -1,11 +1,11 @@
 {
-	"Title": "Aditya Ketkar | Personal Webpage",
-	"Name": "Aditya Ketkar",
+	"Title": "Disha Lekurwale | Personal Webpage",
+	"Name": "Disha Lekurwale",
 	"Description": [
 		"Recent graduate from BITS Pilani. Passionate about Space Technology, Cognitive Modelling and Open Source.",
 		"I grab every chance I get to travel, learn and create."
 	],
-	"MainImage": "https://i.imgur.com/yQZNGdm.jpg",
+	"MainImage": "https://i.imgur.com/D52YKJ5.jpg",
 	"BackgroundURL": "",
 
 	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
@@ -22,30 +22,18 @@
 	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
 	"InternshipsStartLine": "Previously, I have interned with :",
 	"InternShips": [{
-			"name": "Amazon India",
+			"name": "Spade",
 			"link": "#"
-		},
-		{
-			"name": "North-Eastern Space Application Center (ISRO)",
-			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
-		},
-		{
-			"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
-			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
 		}
 	],
 	"ProjectsStartLine": "Some of the side projects I did can be found here :",
 	"Projects": [{
-			"name": "EisenList",
+			"name": "TutorWeb",
 			"link": "https://github.com/adityaketkar/eisenlist"
 		},
 		{
-			"name": "DelOr",
+			"name": "Covid-19 Data Analysis",
 			"link": "https://bitsdelor.wixsite.com/delor"
-		},
-		{
-			"name": "Alexa Music Companion",
-			"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
 		},
 		{
 			"name": "Gatsby Personal Webpage",
